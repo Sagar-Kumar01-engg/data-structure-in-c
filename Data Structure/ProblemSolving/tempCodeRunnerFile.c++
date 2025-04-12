@@ -1,0 +1,1 @@
+obj1.isUgly(5);
